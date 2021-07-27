@@ -1,3 +1,3 @@
 # photomena
-haha photo go brrrrrrrrrrrr
-requires open cv
+haha photo go brrrrrrrrrrrr <br>
+requires open cv and numpy
